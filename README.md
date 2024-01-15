@@ -21,10 +21,8 @@ A definir
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-
 ```
 A définir
-Remplir le test
 
 ```
 
