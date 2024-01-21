@@ -40,7 +40,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+Comment faire ??? a finir
 ```
 
 ## Technologies :
@@ -56,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O. C.
+* Apti
 
 ## License
 
